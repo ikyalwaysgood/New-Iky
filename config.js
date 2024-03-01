@@ -2,8 +2,8 @@ let fs = require('fs')
 global.DeveloperMode = 'false' //true atau false, true berati iya false berati tidak Moga paham
 global.linkGC = [] // link gc lu
 global.channelYT = [] // link yt lu klo g ad g ush di isi
-global.owner = ['628818770766'] // masuk in no lu sebagai owner
-global.mods = ['6283897390164'] // masuk in no moderator ny
+global.owner = ['6285794908894'] // masuk in no lu sebagai owner
+global.mods = ['6285794908894'] // masuk in no moderator ny
 global.prems = JSON.parse(fs.readFileSync('./src/premium.json')) // ini buat premium
 global.APIs = { // API Prefix
   // name: 'https://website'
